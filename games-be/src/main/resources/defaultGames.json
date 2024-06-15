@@ -1,0 +1,62 @@
+[
+  {
+    "idJuego": 1,
+    "titulo": "Catan",
+    "descripcion": "Juego de estrategia y negociación",
+    "precio": 40
+  },
+  {
+    "idJuego": 2,
+    "titulo": "Carcassonne",
+    "descripcion": "Juego de colocación de losetas",
+    "precio": 30
+  },
+  {
+    "idJuego": 3,
+    "titulo": "Pandemic",
+    "descripcion": "Juego cooperativo de estrategia",
+    "precio": 35
+  },
+  {
+    "idJuego": 4,
+    "titulo": "Ticket to RidJuegoe",
+    "descripcion": "Juego de construcción de rutas ferroviarias",
+    "precio": 45
+  },
+  {
+    "idJuego": 5,
+    "titulo": "Terraforming Mars",
+    "descripcion": "Juego de estrategia y desarrollo de Marte",
+    "precio": 50
+  },
+  {
+    "idJuego": 6,
+    "titulo": "Gloomhaven",
+    "descripcion": "Juego de rol y estrategia",
+    "precio": 120
+  },
+  {
+    "idJuego": 7,
+    "titulo": "7 Wonders",
+    "descripcion": "Juego de construcción de civilizaciones",
+    "precio": 35
+  },
+  {
+    "idJuego": 8,
+    "titulo": "Splendor",
+    "descripcion": "Juego de estrategia y cartas",
+    "precio": 30
+  },
+  {
+    "idJuego": 9,
+    "titulo": "Azul",
+    "descripcion": "Juego de colocación de azulejos",
+    "precio": 25
+  },
+  {
+    "idJuego": 10,
+    "titulo": "Wingspan",
+    "descripcion": "Juego de construcción de aviarios",
+    "precio": 40
+  }
+]
